@@ -8,7 +8,7 @@ I have technical expertiese in data analytics and hold a Master of Public Policy
 
 🌍 Currently seeking opportunities to contribute to economic development initiatives, based in London, UK.
 
-### 🌱 This repository showcases a selection of unclassified economic development projects I've developed. 
+### 🌱 This repository showcases a selection of economic development projects I've developed. 
 
 Key technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL. 
 
@@ -25,11 +25,11 @@ Skills: Data cleaning, python coding (ETL), performance metrics, data visualizat
 Technology: Python (Pandas, Pyarrow), Power BI (DAX, Power Query)  
 Results: 
 
+Trade vulnerabilities:
+Use R code
 
-
-
-
-
+Power bi regions 
+REA tools 
 
 - Experience in analyzing global trade indices and presenting complex data in accessible formats
 - Skilled in developing Economic Specialization Indices and conducting trade vulnerability assessments
@@ -38,10 +38,11 @@ Results:
 
 - Developed a Power BI tool to classify 'vulnerable' imports within New Zealand's supply chains
   
-### 📊 Data-Driven Insights
+### 📊 Other data-driven products I've produced
 
 MTAGDP
-Small business
+Small business factsheet
+
 
 ### 📫 Let's Connect!
 
