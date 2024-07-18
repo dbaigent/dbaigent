@@ -1,16 +1,16 @@
 # Daniel Baigent
 
-## Senior Research & Data Analyst | Economic Development Specialist
+## Senior Research & Data Analyst | Business & Economic Development Specialist
 
-👋 Hello! I'm Daniel :) 
+👋 Hello! I'm Daniel
 
-I have technical expertiese in data analytics and hold a Master of Public Policy (First Class) degree from the University of Auckland. I have over eight years of experience providing data-driven insights to ministers and policy professionals. I'm passionate about using data to drive positive change. 
+I have technical expertise in data analytics and over eight years of experience providing data-driven insights to ministers and policy professionals. I hold a Master of Public Policy degree (first class honours) from the University of Auckland. I'm passionate about using data in innovative ways to drive positive change. 
 
 🌍 Currently seeking opportunities to contribute to economic development initiatives, based in London, UK.
 
-### 🌱 This repository showcases a selection of economic development projects I've developed. 
+### 🌱 This repository showcases a selection of projects I've developed. 
 
-Key technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL. 
+Technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL. 
 
 My CV in pdf
 
@@ -18,31 +18,53 @@ My CV in pdf
 
 New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages
 
-Primary Code: BACI_RCA_2012_2022_Final.ipynb
+Code: BACI_RCA_2012_2022_Final.ipynb
+
 Publication: 
-Description: This report provides an overview of the competitiveness of New Zealand’s exports since 1995, using the detailed 6-digit harmonised classification system (HS6). The analysis uses an index of comparative advantage to measure the international competitiveness of traded product lines in the economy, at annual intervals. The index used, Revealed Comparative Advantage (RCA), is the ratio of New Zealand’s share of trade in a particular line of products, against the world’s share of trade in the same product line. The emergance, decline and/or peresistance of comparative advantages are assessed over-time and in relation to global market share. 
-Skills: Data cleaning, python coding (ETL), performance metrics, data visualization in Power BI, time-series analysis. 
-Technology: Python (Pandas, Pyarrow), Power BI (DAX, Power Query)  
-Results: 
 
-Trade vulnerabilities:
-Use R code
+Description: The study aimed to inform policy recommendations by gaining a more precise understanding of export strengths and the potential for future diversification. The report provides an overview of the competitiveness of New Zealand’s exports since 1995, using the detailed 6-digit harmonised classification system (HS6). The analysis uses an index of comparative advantage to measure the international competitiveness of traded product lines in the economy, at annual intervals. The index used, Revealed Comparative Advantage (RCA), is the ratio of New Zealand’s share of trade in a particular line of products, against the world’s share of trade in the same product line. The emergence, decline and/or persistence of comparative advantages are assessed over-time and in relation to global market share. 
 
-Power bi regions 
-REA tools 
+Skills: Data cleaning, Python coding (ETL), performance metrics, data visualization, data modelling, time-series analysis. 
+Technology: Python (Pandas, Pyarrow), Power BI (DAX, Power Query)
 
-- Experience in analyzing global trade indices and presenting complex data in accessible formats
-- Skilled in developing Economic Specialization Indices and conducting trade vulnerability assessments
-- Passionate about using data to drive positive change in global development
+Results: The research highlighted that export advantages reflected strong and enduring ties to primary industries - both directly and indirectly. The findings provided a crucial “reality check” for policymakers, emphasising that any notable shift in New Zealand’s export structure would require strong and coordinated efforts, given the high degree of path dependency. The project's outputs included a comprehensive published report, providing a robust evidence base for subsequent strategy documents developed by the Chief Economist.
 
+Identifying Import Vulnerabilities in New Zealand
 
-- Developed a Power BI tool to classify 'vulnerable' imports within New Zealand's supply chains
+Description: This project provided a quantitative picture of vulnerabilities resulting from possible global disruptions to the supply of imported goods. A framework is developed to identify imported products that are highly concentrated and vulnerable to disruptions. The Herfindahl–Hirschman Index (HHI) is first used to measure the market concentration of imports. A second filter is used to determine whether there are limited alternative suppliers that could be accessed in the event of a disruption. It is inferred that the higher the concentration of global market share that the supplier has, the less able New Zealand is to substitute production with alternative sources of supply in the case of a trade disruption. In order to account for the potential to substitute imports for domestic production, a third filter is used to exclude imported products for which New Zealand has exported in larger quantities
+
+Skills: Data cleaning, ETL, data modelling, metrics creation, data visualization, descriptive statistics.  
+Technology: Power BI (DAX, Power Query), Excel
+
+Outputs: Project Methodology, Results
+
+Regional Performance Dashboard 
+
+Description: Produced a dashboard summarising key regional statistics and trends for Ministers. I developed a dashboard template using SQL and Power BI and adapted the content to suit the nature of the Minister's engagement. 
+
+Skills: ETL in SQL and Power Query, DAX measures, data visualisation. 
+Technology: SQL, Power BI, Power Query
+Examples: Canterbury Region Example PDF, Kanoa Regional A3 pack for the incoming Minister PDF, Power BI file.  
   
 ### 📊 Other data-driven products I've produced
 
-MTAGDP
-Small business factsheet
+Regional Economic Activity web tool
 
+http://webrear.mbie.govt.nz/summary/new-zealand
+
+Description: This tool allows users to compare regions' economic performance, distinguish their attributes and specialisations, and understand the different roles they play in the New Zealand economy. I was responsible for updating scripts in R, engaging with stakeholders to ensure themes remained relevant, and developing new measures.
+
+Skills: Data cleaning, ETL in R, metrics creation, data visualization, debugging. 
+Technology: R, YAML 
+
+Modelled Territorial Authority Gross Domestic Product (MTAGDP) 
+
+Description: Developed from Statistics NZ Regional GDP estimates, these estimates provide information at the territorial authority area level so that we can better understand local economies and industries.
+
+https://www.mbie.govt.nz/business-and-employment/economic-development/regional-economic-development/modelled-territorial-authority-gross-domestic-product/modelled-territorial-authority-gdp-2021-release
+
+Skills: Data cleaning, ETL in R, metrics creation, data visualization, data validation, debugging, descriptive statistics.  
+Technology: R
 
 ### 📫 Let's Connect!
 
