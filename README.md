@@ -40,7 +40,7 @@ Technology: Power BI (DAX, Power Query), Excel.
 
 Results: This reserch was used by the Ministry of Business, Innovation and Employment and the Ministry of Foreign Affairs and Trade to determine critical inputs in production, and inform development of strategic emergency planning.  
 
-Outputs: [Import Vulnerability Methodology](https://github.com/dbaigent/dbaigent/blob/main/Import%20Vulnerability%20Methodology.docx), [Results](https://github.com/dbaigent/dbaigent/blob/main/Final%20Import%20Vulnerability%20Dataset%20.xlsx)
+Outputs: [Import Vulnerability Methodology](https://github.com/dbaigent/dbaigent/blob/main/Import%20Vulnerability%20Methodology.docx), [Dataset](https://github.com/dbaigent/dbaigent/blob/main/Final%20Import%20Vulnerability%20Dataset%20.xlsx)
 
 Regional Performance Dashboard 
 
@@ -50,7 +50,7 @@ Skills: ETL in SQL and Power Query, DAX measures, data visualisation.
 
 Technology: SQL, Power BI, Power Query.
 
-Examples: Canterbury Region Example PDF, Power BI file  
+Examples: [Canterbury Region Example](https://github.com/dbaigent/dbaigent/blob/main/Canterbury%20Region%20Profile%20Example.pdf), Power BI file  
   
 ### 📊 Other data-driven products I've produced
 
