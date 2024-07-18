@@ -12,7 +12,8 @@ I have technical expertise in data analytics and over eight years of experience 
 
 Technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL.
 
-My C.V. in PDF[./C.V. Daniel Baigent.pdf]
+My C.V. in PDF
+[./C.V. Daniel Baigent.pdf]
 
 ### 🛠️ Projects
 
