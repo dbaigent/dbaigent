@@ -1,6 +1,6 @@
 # Daniel Baigent
 
-## Senior Research & Data Analyst | Business & Economic Development Specialist
+## Senior Research & Data Analyst | Economic Development Specialist
 
 👋 Hello! I'm Daniel
 
