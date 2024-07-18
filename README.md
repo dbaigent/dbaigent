@@ -16,7 +16,7 @@ My C.V. in [PDF](https://github.com/dbaigent/dbaigent/blob/main/C.V.%20Daniel%20
 
 ### 🛠️ Projects
 
-Comparative Advantage
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`Comparative Advantage
 
 Code: [BACI_RCA_2012_2022_Final.ipynb](https://github.com/dbaigent/dbaigent/blob/main/BACI_RCA_2012_2022_Final.ipynb)
 
