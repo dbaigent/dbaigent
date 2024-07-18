@@ -16,11 +16,11 @@ My C.V. in PDF
 
 ### 🛠️ Projects
 
-New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages
+Comparative Advantage
 
 Code: BACI_RCA_2012_2022_Final.ipynb
 
-Publication:[New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages](https://www.mbie.govt.nz/dmsdocument/23289-nz-export-advantage-composition-and-performance-of-nz-comparative-advantages-from-1995-2018-pdf)
+Publication  [New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages](https://www.mbie.govt.nz/dmsdocument/23289-nz-export-advantage-composition-and-performance-of-nz-comparative-advantages-from-1995-2018-pdf)
 
 Description: This study aimed to inform policy recommendations by gaining a more precise understanding of export strengths and the potential for future diversification. The report provides an overview of the competitiveness of New Zealand’s exports since 1995, using the detailed 6-digit harmonised classification system (HS6). The analysis uses an index of comparative advantage to measure the international competitiveness of traded product lines in the economy, at annual intervals. The index used, Revealed Comparative Advantage (RCA), is the ratio of New Zealand’s share of trade in a particular line of products, against the world’s share of trade in the same product line. The emergence, decline and/or persistence of comparative advantages are assessed over-time and in relation to global market share. 
 
@@ -54,9 +54,7 @@ Examples: Canterbury Region Example PDF, Power BI file
   
 ### 📊 Other data-driven products I've produced
 
-Regional Economic Activity web tool
-
-http://webrear.mbie.govt.nz/summary/new-zealand
+[Regional Economic Activity web tool](http://webrear.mbie.govt.nz/summary/new-zealand)
 
 Description: This tool allows users to compare regions' economic performance, distinguish their attributes and specialisations, and understand the different roles they play in the New Zealand economy. I was responsible for updating scripts in R, engaging with stakeholders to ensure themes remained relevant, and developing new measures.
 
@@ -64,11 +62,9 @@ Skills: Data cleaning, ETL in R, metrics creation, data visualization, debugging
 
 Technology: R, YAML. 
 
-Modelled Territorial Authority Gross Domestic Product (MTAGDP) 
+[Modelled Territorial Authority Gross Domestic Product (MTAGDP)](https://www.mbie.govt.nz/business-and-employment/economic-development/regional-economic-development/modelled-territorial-authority-gross-domestic-product/modelled-territorial-authority-gdp-2021-release)
 
 Description: Developed from Statistics New Zealand Regional GDP estimates, these estimates provide information at the territorial authority area level so that we can better understand local economies and industries.
-
-https://www.mbie.govt.nz/business-and-employment/economic-development/regional-economic-development/modelled-territorial-authority-gross-domestic-product/modelled-territorial-authority-gdp-2021-release
 
 Skills: Data cleaning, ETL in R, metrics creation, data visualization, data validation, debugging, descriptive statistics.
 
