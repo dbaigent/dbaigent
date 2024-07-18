@@ -28,7 +28,7 @@ Skills: Data cleaning, Python coding (ETL), performance metrics, data visualizat
 
 Technology: Python (Pandas, Pyarrow), Power BI (DAX, Power Query).
 
-Results: The research highlights that export advantages reflect strong and enduring ties to primary industries - both directly and indirectly. The findings provide a crucial “reality check” for policymakers, emphasising that any notable shift in New Zealand’s export structure would require strong and coordinated efforts, given the high degree of path dependency. The project's outputs included a comprehensive published report, providing a robust evidence base for subsequent strategy documents developed by the Chief Economist.
+Results: The report demonstrates the extent to which New Zealand's export advantages reflect strong and enduring ties to primary industries - both directly and indirectly. The findings provide a crucial “reality check” for policymakers, emphasising that any notable shift in New Zealand’s export structure would require strong and coordinated efforts, given the high degree of path dependency. The project's outputs included a comprehensive published report, providing a robust evidence base for subsequent strategy documents developed by the Chief Economist.
 
 Identifying Import Vulnerabilities in New Zealand
 
