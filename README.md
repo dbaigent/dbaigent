@@ -20,7 +20,7 @@ Comparative Advantage
 
 Code: BACI_RCA_2012_2022_Final.ipynb
 
-Publication  [New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages](https://www.mbie.govt.nz/dmsdocument/23289-nz-export-advantage-composition-and-performance-of-nz-comparative-advantages-from-1995-2018-pdf)
+Publication:  [New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages](https://www.mbie.govt.nz/dmsdocument/23289-nz-export-advantage-composition-and-performance-of-nz-comparative-advantages-from-1995-2018-pdf)
 
 Description: This study aimed to inform policy recommendations by gaining a more precise understanding of export strengths and the potential for future diversification. The report provides an overview of the competitiveness of New Zealand’s exports since 1995, using the detailed 6-digit harmonised classification system (HS6). The analysis uses an index of comparative advantage to measure the international competitiveness of traded product lines in the economy, at annual intervals. The index used, Revealed Comparative Advantage (RCA), is the ratio of New Zealand’s share of trade in a particular line of products, against the world’s share of trade in the same product line. The emergence, decline and/or persistence of comparative advantages are assessed over-time and in relation to global market share. 
 
