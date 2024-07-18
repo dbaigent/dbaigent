@@ -64,7 +64,7 @@ Technology: R, YAML.
 
 [Modelled Territorial Authority Gross Domestic Product (MTAGDP)](https://www.mbie.govt.nz/business-and-employment/economic-development/regional-economic-development/modelled-territorial-authority-gross-domestic-product/modelled-territorial-authority-gdp-2021-release)
 
-Description: Developed from Statistics New Zealand Regional GDP estimates, these estimates provide information at the territorial authority area level so that we can better understand local economies and industries.
+Description: Developed from Statistics New Zealand Regional GDP estimates, these estimates provide information at the territorial authority area level so that we can better understand local economies and industries. I was responsible for running and maintaining scripts and analysing outputs. 
 
 Skills: Data cleaning, ETL in R, metrics creation, data visualization, data validation, debugging, descriptive statistics.
 
