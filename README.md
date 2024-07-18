@@ -38,7 +38,9 @@ Skills: Data cleaning, ETL, data modelling, metrics creation, data visualization
 
 Technology: Power BI (DAX, Power Query), Excel.
 
-Outputs: Project Methodology, Results.
+Results: This reserch was used by the Ministry of Business, Innovation and Employment and the Ministry of Foreign Affairs and Trade to determine critical inputs to production, and inform emergency planning.  
+
+Outputs: Project Methodology, Results
 
 Regional Performance Dashboard 
 
