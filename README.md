@@ -50,7 +50,7 @@ Skills: ETL in SQL and Power Query, DAX measures, data visualisation.
 
 Technology: SQL, Power BI, Power Query.
 
-Examples: Canterbury Region Example PDF, Kanoa Regional A3 pack for the incoming Minister PDF, Power BI file  
+Examples: Canterbury Region Example PDF, Power BI file  
   
 ### 📊 Other data-driven products I've produced
 
