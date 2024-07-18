@@ -12,7 +12,7 @@ I have technical expertise in data analytics and over eight years of experience 
 
 Technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL. 
 
-My CV in pdf
+My C.V. in PDF
 
 ### 🛠️ Projects
 
@@ -24,7 +24,8 @@ Publication:
 
 Description: The study aimed to inform policy recommendations by gaining a more precise understanding of export strengths and the potential for future diversification. The report provides an overview of the competitiveness of New Zealand’s exports since 1995, using the detailed 6-digit harmonised classification system (HS6). The analysis uses an index of comparative advantage to measure the international competitiveness of traded product lines in the economy, at annual intervals. The index used, Revealed Comparative Advantage (RCA), is the ratio of New Zealand’s share of trade in a particular line of products, against the world’s share of trade in the same product line. The emergence, decline and/or persistence of comparative advantages are assessed over-time and in relation to global market share. 
 
-Skills: Data cleaning, Python coding (ETL), performance metrics, data visualization, data modelling, time-series analysis. 
+Skills: Data cleaning, Python coding (ETL), performance metrics, data visualization, data modelling, time-series analysis.
+
 Technology: Python (Pandas, Pyarrow), Power BI (DAX, Power Query)
 
 Results: The research highlighted that export advantages reflected strong and enduring ties to primary industries - both directly and indirectly. The findings provided a crucial “reality check” for policymakers, emphasising that any notable shift in New Zealand’s export structure would require strong and coordinated efforts, given the high degree of path dependency. The project's outputs included a comprehensive published report, providing a robust evidence base for subsequent strategy documents developed by the Chief Economist.
