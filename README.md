@@ -38,7 +38,7 @@ Skills: Data cleaning, ETL, data modelling, metrics creation, data visualization
 
 Technology: Power BI (DAX, Power Query), Excel.
 
-Results: This reserch was used by the Ministry of Business, Innovation and Employment and the Ministry of Foreign Affairs and Trade to determine critical inputs in production, and inform development of strategic emergency planning.  
+Results: This research was used by the Ministry of Business, Innovation and Employment and the Ministry of Foreign Affairs and Trade to determine critical inputs in production, and inform development of strategic emergency planning.  
 
 Outputs: [Import Vulnerability Methodology](https://github.com/dbaigent/dbaigent/blob/main/Import%20Vulnerability%20Methodology.docx), [Dataset](https://github.com/dbaigent/dbaigent/blob/main/Final%20Import%20Vulnerability%20Dataset%20.xlsx)
 ```diff
