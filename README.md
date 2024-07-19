@@ -29,9 +29,9 @@ Skills: Data cleaning, Python coding (ETL), performance metrics, data visualizat
 Technology: Python (Pandas, Pyarrow), Power BI (DAX, Power Query).
 
 Results: The report demonstrates the extent to which New Zealand's export advantages reflect strong and enduring ties to primary industries - both directly and indirectly. The findings provide a crucial “reality check” for policymakers, emphasising that any notable shift in New Zealand’s export structure would require strong and coordinated efforts, given the high degree of path dependency. The project's outputs included a comprehensive published report, providing a robust evidence base for subsequent strategy documents developed by the Chief Economist.
-
-Identifying Import Vulnerabilities in New Zealand
-
+```diff
++ Identifying Import Vulnerabilities in New Zealand
+```
 Description: This project provides a quantitative picture of vulnerabilities resulting from possible global disruptions to the supply of imported goods. A framework is developed to identify imported products that are highly concentrated and vulnerable to disruptions. The Herfindahl–Hirschman Index (HHI) is first used to measure the market concentration of imports. A second filter is used to determine whether there are limited alternative suppliers that could be accessed in the event of a disruption. It is inferred that the higher the concentration of global market share that the supplier has, the less able New Zealand is to substitute production with alternative sources of supply in the case of a trade disruption. In order to account for the potential to substitute imports for domestic production, a third filter is used to exclude imported products for which New Zealand has exported in larger quantities.
 
 Skills: Data cleaning, ETL, data modelling, metrics creation, data visualization, descriptive statistics.
@@ -41,9 +41,9 @@ Technology: Power BI (DAX, Power Query), Excel.
 Results: This reserch was used by the Ministry of Business, Innovation and Employment and the Ministry of Foreign Affairs and Trade to determine critical inputs in production, and inform development of strategic emergency planning.  
 
 Outputs: [Import Vulnerability Methodology](https://github.com/dbaigent/dbaigent/blob/main/Import%20Vulnerability%20Methodology.docx), [Dataset](https://github.com/dbaigent/dbaigent/blob/main/Final%20Import%20Vulnerability%20Dataset%20.xlsx)
-
-Regional Performance Dashboard 
-
+```diff
++ Regional Performance Dashboard 
+```
 Description: Produced a dashboard summarising key regional statistics and trends for Ministers. I developed a dashboard template using SQL and Power BI and adapted the content to suit the nature of the Minister's engagements. 
 
 Skills: ETL in SQL and Power Query, DAX measures, data visualisation. 
