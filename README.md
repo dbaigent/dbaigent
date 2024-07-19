@@ -15,9 +15,9 @@ Technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL.
 My C.V. in [PDF](https://github.com/dbaigent/dbaigent/blob/main/C.V.%20Daniel%20Baigent.pdf)
 
 ### 🛠️ Projects
-
-Comparative Advantage
-
+```diff
+- Comparative Advantage
+```
 Code: [BACI_RCA_2012_2022_Final.ipynb](https://github.com/dbaigent/dbaigent/blob/main/BACI_RCA_2012_2022_Final.ipynb)
 
 Publication:  [New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages](https://www.mbie.govt.nz/dmsdocument/23289-nz-export-advantage-composition-and-performance-of-nz-comparative-advantages-from-1995-2018-pdf)
