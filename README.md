@@ -18,7 +18,7 @@ My C.V. in [PDF](https://github.com/dbaigent/dbaigent/blob/main/C.V.%20Daniel%20
 
 ## Comparative Advantage
 
-Code: [BACI_RCA_2012_2022_Final.ipynb](https://github.com/dbaigent/dbaigent/blob/main/BACI_RCA_2012_2022_Final.ipynb)
+Code: [BACI_RCA_2012_2022_Final.ipynb](https://github.com/dbaigent/dbaigent/blob/main/BACI_RCA_2012_2022_Final.ipynb), [BACI_merge_2012_2022.ipynb](https://github.com/dbaigent/dbaigent/blob/main/BACI_merge_2012_2022.ipynb)
 
 Publication:  [New Zealand’s Export Advantage: Composition and performance of New Zealand’s comparative advantages](https://www.mbie.govt.nz/dmsdocument/23289-nz-export-advantage-composition-and-performance-of-nz-comparative-advantages-from-1995-2018-pdf)
 
