@@ -50,7 +50,8 @@ Skills: ETL in SQL and Power Query, DAX measures, data visualisation.
 
 Technology: SQL, Power BI, Power Query.
 
-Examples: [Canterbury Region Example](https://github.com/dbaigent/dbaigent/blob/main/Canterbury%20Region%20Profile%20Example.pdf)
+Examples:[Regional Profiles for Incoming Ministers](https://github.com/dbaigent/dbaigent/blob/main/Regional%20Profiles%20for%20Incoming%20Ministers%20Dec%202023.pdf)
+[Canterbury Region Example](https://github.com/dbaigent/dbaigent/blob/main/Canterbury%20Region%20Profile%20Example.pdf)
   
 ### 📊 Other data-driven products I've produced
 
