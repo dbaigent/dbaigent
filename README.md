@@ -6,7 +6,7 @@
 
 I have technical expertise in data analytics and over eight years of experience providing data-driven insights to ministers and policy professionals. I hold a Master of Public Policy degree (first class honours) from the University of Auckland. I'm passionate about using data in innovative ways to drive positive change. 
 
-🌍 Currently seeking opportunities to contribute to economic development initiatives, based in London, UK.
+🌍 Currently seeking opportunities to contribute to economic development initiatives and governance projects, based in London, UK.
 
 ### 🌱 This repository showcases a selection of projects I've developed. 
 
