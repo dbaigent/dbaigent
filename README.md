@@ -36,7 +36,7 @@ Description: This project provides a quantitative picture of vulnerabilities res
 
 Skills: Data cleaning, ETL, data modelling, metrics creation, data visualization, descriptive statistics.
 
-Technology: Power BI (DAX, Power Query), Excel.
+Technology: R, Power BI (DAX, Power Query), Excel.
 
 Results: This research was used by the Ministry of Business, Innovation and Employment and the Ministry of Foreign Affairs and Trade to determine critical inputs in production, and inform development of strategic emergency planning.  
 
