@@ -4,7 +4,7 @@
 
 👋 Hello! I'm Daniel - an experienced senior research and data analyst, passionate about leveraging analytical tools to solve complex issues and improve decision making.
 
-I enjoy creating performance metrics, applying spatial analytic techniques, and developing strategic advice. 
+I enjoy location-based analytics, creating performance metrics, and developing strategic advice. 
 
 I hold a Master of Public Policy degree (first class honours) from the University of Auckland, with an undegraduate degree in Georgaphy.
 
