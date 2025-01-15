@@ -1,6 +1,6 @@
 # Daniel Baigent
 
-## Senior Research & Data Analyst | Economic Development Specialist
+## Senior Research & Data Analyst
 
 👋 Hello! I'm Daniel - an experienced senior research and data analyst, passionate about leveraging analytical tools to solve complex issues and improve decision making.
 
