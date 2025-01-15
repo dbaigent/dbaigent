@@ -2,7 +2,11 @@
 
 ## Senior Research & Data Analyst | Economic Development Specialist
 
-👋 Hello! I'm Daniel - an experienced senior research and data analyst, passionate about leveraging analytical tools to solve complex issues and improve decision making. I have a track record of delivering impactful results through comprehensive data analysis, data visualisation, and report writing. I hold a Master of Public Policy degree (first class honours) from the University of Auckland. I'm passionate about using data in innovative ways to drive positive change. 
+👋 Hello! I'm Daniel - an experienced senior research and data analyst, passionate about leveraging analytical tools to solve complex issues and improve decision making.
+
+I enjoy using spatial analytics, developing performance metrics, and providing strategic advice. 
+
+I hold a Master of Public Policy degree (first class honours) from the University of Auckland, with an undegraduate degree in Georgaphy.
 
 🌍 Based in London, UK.
 
