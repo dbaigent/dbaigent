@@ -2,9 +2,8 @@
 
 ## Senior Research & Data Analyst
 
-👋 Hello! I'm Daniel - an experienced senior research and data analyst, passionate about leveraging analytical tools to solve complex issues and improve decision making.
-
-I enjoy undertaking location-based analytics, leading trade and economic development projects, and developing strategic advice. 
+👋 Hello! I'm Daniel - an accomplished senior research and data analyst with over eight years of experience delivering data-driven insights and strategic advice, currently consulting for the 
+Department for Business and Trade. I have expertise leading trade and economic development projects, undertaking location-based analytics, and developing the evidence base for policy recommendations.
 
 I hold a Master of Public Policy degree (first class honours) from the University of Auckland, with an undegraduate degree in Georgaphy.
 
