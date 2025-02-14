@@ -13,7 +13,7 @@ I hold a Master of Public Policy degree (first class honours) from the Universit
 
 Technical skills: Power BI, Excel, Python, ArcGIS, Power Query and SQL.
 
-My C.V. in [PDF](https://github.com/dbaigent/dbaigent/blob/main/Daniel%20Baigent%20Senior%20Research%20%26%20Data%20Analyst%20CV.pdf)
+My C.V. in [PDF](https://github.com/dbaigent/dbaigent/blob/main/Daniel%20Baigent%20CV.pdf)
 
 ### 🛠️ Projects
 
